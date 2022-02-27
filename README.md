@@ -1,6 +1,6 @@
 @OroX23<br>
 -> Discord bot Developer (Beginner)<br>
--> Knowledge: Python (excellent), JSON(excellent) HTML (excellent), CSS (good), SQL (beginner level), PHP (beginner level), C (good), ...<br>
+-> Knowledge: Python (excellent), JSON(excellent) HTML (excellent), CSS (good), SQL (beginner level), PHP (beginner level), C (good)<br>
 -> Potential knowledge: C++, Java, Java Script, Linux, microprocessor<br>
 -> You can reach me over Discord: OroX#3792
 
